@@ -5,7 +5,7 @@ It is a Computer Vision System which can automatically detect the driver drowsin
 
 How to run:
 
-* Create an environment on Anaconda and mport the required libraries in the environment.
+* Create an environment on Anaconda and import the required libraries in the environment.
 
 * Launch Jupyter Notebook. Paste the code, upload the .dat file and .wav file and run the code.
 
