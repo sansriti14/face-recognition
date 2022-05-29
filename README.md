@@ -8,3 +8,5 @@ How to run:
 * Create an environment on Anaconda and mport the required libraries in the environment.
 
 * Launch Jupyter Notebook. Paste the code, upload the .dat file and .wav file and run the code.
+
+* Here you can find the dataset (.dat file) : http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
